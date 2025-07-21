@@ -20,6 +20,7 @@
 /.nx
 /.nx/cache
 /.vscode/*
+/.vscode
 !/.vscode/extensions.json
 .idea
 
